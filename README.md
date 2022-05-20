@@ -2,4 +2,5 @@
 
 I am software developer from Namangan 
 <br/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKBqWglpl37vymm1YXeC8Uj2MkKOgW7YZcA&usqp=CAU" width="1000" />
+<br/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKBqWglpl37vymm1YXeC8Uj2MkKOgW7YZcA&usqp=CAU" width="600" />
