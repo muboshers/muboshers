@@ -6,8 +6,7 @@ I am software developer from Namangan
 <img src="https://i0.wp.com/dxminds.com/wp-content/uploads/2021/07/How-Much-Does-it-Cost-to-hire-Mern-stack-developer.jpg" width="300"  style="margin:auto;" />
 <br/>
 <br/>
-### My technical skill is <br/>
-
+I work this technology : <br/>
 <code> <img src="https://ru.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" width="45" /> </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="35" /> </code>
 <code> <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" width="80" /> </code>
@@ -17,3 +16,14 @@ I am software developer from Namangan
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50" /> </code>
 <code> <img src="https://cdn.mos.cms.futurecdn.net/kTHdjDARSF9AcHpWn68sTc.jpg" width="50" />  </code>
 <br/>
+### My frontend skill is :
+<br/>
+Frontend :
+<br/>
+### HTML,CSS,JAVASCRIPT,SASS,BOOTSTRAP,REACT JS, REDUX, VUE JS, VUE X
+<br/>
+
+Backend :
+### NODE JS, EXPRESS JS, MONGO DB,
+
+### VSC : GIT and GITHUB
