@@ -8,9 +8,10 @@ I am software developer from Namangan
 <br/>
 ### My technical skill is <br/>
 
-<code> <img src="https://ru.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" width="40" /> </code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="40" /> </code>
-<code> <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" width="40" /> </code>
+<code> <img src="https://ru.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" width="45" /> </code>
+
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="35" /> </code>
+<code> <img src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" width="50" /> </code>
 <code> <img src="https://miro.medium.com/max/496/0*M4AO0-wTcV3audnp.png" width="40" /> </code>
 <code> <img src="https://avatars.githubusercontent.com/u/6128107?s=280&v=4" width="40" /> </code>
 <code> <img src="https://havola.uz/uploads/logos/r0nq6p5c.png" width="20" /> </code>
