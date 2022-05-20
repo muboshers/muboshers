@@ -4,3 +4,8 @@ I am software developer from Namangan
 <br/>
 <br/>
 <img src="https://i0.wp.com/dxminds.com/wp-content/uploads/2021/07/How-Much-Does-it-Cost-to-hire-Mern-stack-developer.jpg" width="300"  style="margin:auto;" />
+<br/>
+<br/>
+### My technical skill is <br/>
+
+<code> <img src="https://ru.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" width="40" /> </code>
