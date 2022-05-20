@@ -3,4 +3,4 @@
 I am software developer from Namangan 
 <br/>
 <br/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKBqWglpl37vymm1YXeC8Uj2MkKOgW7YZcA&usqp=CAU" width="600" />
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAKBqWglpl37vymm1YXeC8Uj2MkKOgW7YZcA&usqp=CAU](https://i0.wp.com/dxminds.com/wp-content/uploads/2021/07/How-Much-Does-it-Cost-to-hire-Mern-stack-developer.jpg)" width="600"  style="margin:auto;" />
