@@ -9,5 +9,4 @@ I am software developer from Namangan
 ### My technical skill is <br/>
 
 <code> <img src="https://ru.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" width="40" /> </code>
-<code> <img src="[https://ru.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)" width="40" /> </code>
-<code> <img src="https://ru.seaicons.com/wp-content/uploads/2015/07/Other-html-5-icon.png" width="40" /> </code>
+<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="40" /> </code>
