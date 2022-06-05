@@ -20,7 +20,7 @@ I work this technology : <br/>
 <br/>
 Frontend :
 <br/>
-### HTML,CSS,JAVASCRIPT,SASS,BOOTSTRAP,REACT JS, REDUX, VUE JS, VUE X
+### HTML,CSS,JAVASCRIPT,SASS,BOOTSTRAP,REACT JS, REDUX, VUE JS, VUEX ANGULAR TYPESCRIPT 
 <br/>
 
 Backend :
