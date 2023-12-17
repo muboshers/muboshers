@@ -9,15 +9,9 @@
 
 - 🔭 I’m currently working on [Quran App](https://quran-app-2561b.web.app/)
 
-- 🌱 I’m currently learning **Java For Backend**
-
-- 👨‍💻 All of my projects are available at [https://mm-devs.netlify.app](https://mm-devs.netlify.app)
-
-- 📝 I regularly write articles on [http://mm-devs.epizy.com/](http://mm-devs.epizy.com/)
-
 - 💬 Ask me about **React,Vue,Angular,HTML,CSS,Javascript or Nodejs, ExpressJs, NestJs**
 
-- 📫 How to reach me **muboshermuydinov5@gmail.com**
+- 📫 How to reach me **muydinovmubosher@yandex.ru**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1E7EsgSAOq7VDFvYxPIZ5z9Ktjn5os06A/view?usp=share_link](https://drive.google.com/file/d/1E7EsgSAOq7VDFvYxPIZ5z9Ktjn5os06A/view?usp=share_link)
 
